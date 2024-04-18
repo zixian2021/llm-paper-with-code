@@ -1,4 +1,4 @@
-# llm paper with code
+# llm paper with code 持续更新中，记录llm各个方向值得细读的论文
 
 ### 基础-Transformer Architecture：
 
