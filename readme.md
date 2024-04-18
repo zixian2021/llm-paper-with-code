@@ -2,7 +2,7 @@
 
 ### 基础-Transformer Architecture：
 
-| date | paper | code | 推荐指数(1~5递增) |
+| **date** | **paper** | **code** | **推荐指数(1~5递增)** |
 | --- | --- | --- | --- |
 | Jun 2017 | https://arxiv.org/abs/1706.03762 |  | 5 |
 | Jan 2019 | https://arxiv.org/abs/1901.02860 |  | 5 |
@@ -10,7 +10,7 @@
 
 ### 基础模型：
 
-| date | paper | code | 推荐指数 |
+| **date** | **paper** | **code** | **推荐指数** |
 | --- | --- | --- | --- |
 | Feb 2023 | https://arxiv.org/abs/2302.13971 |  | 5 |
 | Apr 2022 | https://arxiv.org/abs/2204.02311 |  | 4 |
