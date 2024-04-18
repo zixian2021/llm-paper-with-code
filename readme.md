@@ -1,17 +1,4 @@
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 40%;
-}
-table th:nth-of-type(4) {
-    width: 10%;
-}
-</style>
+
 
 # llm paper with code 持续更新中，记录llm各个方向值得细读的论文
 
@@ -19,7 +6,7 @@ table th:nth-of-type(4) {
 ### 基础-Transformer Architecture：
 
 | **date** | **paper** | **code** | **推荐指数(1~5递增)** |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | Jun 2017 | https://arxiv.org/abs/1706.03762 |  | 5 |
 | Jan 2019 | https://arxiv.org/abs/1901.02860 |  | 5 |
 | May 2023 | https://arxiv.org/abs/2305.07185 |  | 4 |
@@ -27,7 +14,7 @@ table th:nth-of-type(4) {
 ### 基础模型：
 
 | **date** | **paper** | **code** | **推荐指数** |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | Feb 2023 | https://arxiv.org/abs/2302.13971 |  | 5 |
 | Apr 2022 | https://arxiv.org/abs/2204.02311 |  | 4 |
 | Apr 2022 | https://arxiv.org/abs/2204.06745 |  | 4 |
@@ -38,7 +25,7 @@ table th:nth-of-type(4) {
 ### 训练/推理框架
 
 | date | paper | code | 推荐指数 |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | Sep 2019 | https://arxiv.org/abs/1909.08053 |  | 5 |
 | Sep 2023 | https://arxiv.org/pdf/2309.06180.pdf |  | 5 |
 | May 2023 | https://arxiv.org/pdf/2303.06865.pdf |  | 5 |
@@ -49,7 +36,7 @@ table th:nth-of-type(4) {
 ### 模型压缩/量化：
 
 | date | paper | code | 推荐指数 |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | Jun 2022 | https://arxiv.org/pdf/2206.01861.pdfhttps://arxiv.org/pdf/2206.01861.pdfhttps://arxiv.org/pdf/2206.01861.pdf |  | 5 |
 | Nov 2022 | https://arxiv.org/pdf/2208.07339.pdf |  | 5 |
 | Mar 2023 | https://arxiv.org/pdf/2210.17323.pdf |  | 5 |
@@ -60,7 +47,7 @@ table th:nth-of-type(4) {
 ### 微调：
 
 | date | paper | code | 推荐指数 |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | Jun 2021 | https://arxiv.org/abs/2106.09685 |  | 5 |
 | May 2023 | https://arxiv.org/abs/2305.14314 |  | 5 |
 | Oct 2022 | https://arxiv.org/abs/2210.07558  |  | 4 |
@@ -69,7 +56,7 @@ table th:nth-of-type(4) {
 ### Agent：
 
 | date | paper | code | 推荐指数 |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | 2023.2 | https://arxiv.org/abs/2302.02083 | - | 4 |
 | 2023.4 | https://arxiv.org/abs/2304.05335 | - | 5 |
 | 2023.5 | https://arxiv.org/abs/2305.16867 | - | 4 |
@@ -84,7 +71,7 @@ table th:nth-of-type(4) {
 ### RAG：
 
 | date | paper | code | 推荐指数 |
-| --- | --- | --- | --- |
+| -------- | ------------------------------------------------------------ | --------- | -------- |
 | Nov 2023 | https://arxiv.org/abs/2311.09210 | - | 5 |
 | Feb 2024 | https://openreview.net/forum?id=hSyW5go0v8 | - | 5 |
 | Nov 2023 | https://arxiv.org/abs/2311.08252 |  | 5 |
