@@ -1,5 +1,22 @@
 # llm paper with code 持续更新中，记录llm各个方向值得细读的论文
 
+
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 40%;
+}
+table th:nth-of-type(4) {
+    width: 10%;
+}
+</style>
+
+
 ### 基础-Transformer Architecture：
 
 | **date** | **paper** | **code** | **推荐指数(1~5递增)** |
