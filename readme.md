@@ -1,6 +1,3 @@
-# llm paper with code 持续更新中，记录llm各个方向值得细读的论文
-
-
 <style>
 table th:first-of-type {
     width: 20%;
@@ -15,6 +12,8 @@ table th:nth-of-type(4) {
     width: 10%;
 }
 </style>
+
+# llm paper with code 持续更新中，记录llm各个方向值得细读的论文
 
 
 ### 基础-Transformer Architecture：
